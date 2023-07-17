@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: linear-gradient(to right, #DBDFEA, #a6b5dc);
+}
+.govde{
+    width: 550px;
+    height: 600px;
+    background-color: #93adef;
+    margin: auto;
+    margin-top: 2%;
+    cursor: pointer;
+}
+.bolme{
+    width: 200px;
+    height: 600px;
+    background-color: #e2d7d7;
+}
+.bolme img{
+    height: 160px;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-left: 33px;
+}
+.bolme h2{
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    color: black;
+    text-align: center;
+    margin-top: 6px;
+}
+.bolme h4{
+    font-size: 17px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    color: black;
+    text-align: center;
+    margin-top: 6px;
+}
+.bolme i{
+    display: block;
+    margin-top: 20px;
+    margin-left: 7px;
+    column-gap: 10px;
+}
+.bolme h5{
+    margin-top: -88px;
+    margin-left: 42px;
+}
+.bolme #email{
+    margin-top: 16px;
+}
+.bolme #linkedin{
+    margin-top: 21px;
+}
+.bolme h3{
+    text-align: center;
+    margin-top: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+}
+.bolme ul{
+    margin-top: 15px;
+    margin-left: 35px;
+}
+.bolme ul li{
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+}
+.govde #bilgi{
+    float: right;
+    margin-top: -570px;
+    margin-right: 120px;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+}
+.govde #mezun_bir{
+    float: right;
+    margin-top: -530px;
+    margin-right: 85px;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+}
+.govde #mezun_iki{
+    float: right;
+    margin-top: -480px;
+    margin-right: 55px;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic; 
+}
+.govde #is{
+    float: right;
+    margin-top: -410px;
+    margin-right: 215px;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic; 
+}
+.govde #is_bir{
+    float: right;
+    margin-top: -380px;
+    margin-right: 90px;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+}
+.govde #is_iki{
+    float: right;
+    margin-top: -350px;
+    margin-right: 70px;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+}
+.govde #is_uc{
+    float: right;
+    margin-top: -320px;
+    margin-right: 42px;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+}
+.govde #ilgi{
+    float: right;
+    margin-top: -250px;
+    margin-right: 192px;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+}
+.govde #sinif{
+    margin-top: -200px;
+    margin-left: 250px;
+}
